@@ -21,10 +21,10 @@ repository               : "samihanuva/samihanuva.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "anuva_dp.jpg"
+  avatar           : "anudp.jpg"
   name             : "Samiha Shafiq Anuva"
   pronouns         : # example: "she/her"
-  bio              : "Interested in HCI, NLP, UX Research, Data Visualization"
+  bio              : "HCI, NLP, UX Research, Data Visualization"
   location         : "360 Assiniboine Road, Toronto, Ontario, Canada"
   employer         : "York University, Canada"
   uri              : # URL
