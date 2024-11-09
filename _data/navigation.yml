@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=udWuH_YAAAAJ&hl=en&authuser=2
 
   - title: "Work Experience"
     url: /talks/
