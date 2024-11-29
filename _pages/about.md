@@ -20,7 +20,6 @@ Selected Publication
 ======
 
 ---
-layout: archive
 title: "Selected Publications"
 permalink: /talks/
 author_profile: true
