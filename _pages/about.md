@@ -27,15 +27,17 @@ Selected Publication
 
 
 
-{% if site.talkmap_link == true %}
+---
+title: "Talk 1 on Relevant Topic in Your Field"
+collection: talks
+type: "Talk"
+permalink: /talks/2012-03-01-talk-1
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
+---
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right.
