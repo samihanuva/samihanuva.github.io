@@ -19,6 +19,13 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Selected Publication
 ======
 
+---
+layout: archive
+title: "Selected Publications"
+permalink: /talks/
+author_profile: true
+---
+
 {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
