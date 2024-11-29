@@ -20,9 +20,9 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Selected Publication
 ======
 
-<p>This map is generated from a Jupyter Notebook file in <a href="https://github.com/academicpages/academicpages.github.io/blob/master/_talks/talkmap.ipynb">/_talks/talkmap.ipynb</a>, which mines the location fields in the .md files in _talks/.</p>
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
 This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
 
