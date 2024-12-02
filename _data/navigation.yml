@@ -8,20 +8,20 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=udWuH_YAAAAJ&hl=en&authuser=2
 
-  - title: "Work Experience"
-    url: /talks/
+  # - title: "Work Experience"
+  #   url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
-  - title: "Projects"
-    url: /year-archive/
+  # - title: "Projects"
+  #   url: /year-archive/
 
   - title: "CV"
     url: /files/Samiha_Shafiq_CV_10sept_24.pdf
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

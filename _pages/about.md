@@ -10,7 +10,12 @@ redirect_from:
 ![Illustration of learning process of AI](/images/robot2.jpg){: .align-right width="300px"}
 I am Samiha Shafiq Anuva, a <span style="background-color: #fff8c2; color: black;"> Research Engineer </span> at the Intelligent Visualization Lab at York University, with a <span style="background-color: #fff8c2; color: black;">Bachelor's degree in Computer Science and Engineering</span> from the Islamic University of Technology. My research interests lie at the <span style="background-color: #fff8c2; color: black;">intersection of NLP and HCI</span>, where I focus on creating intelligent, accessible interfaces that bridge human and machine communication. My work spans areas like language model evaluation, user-centered design, and data visualization. Recently, I published a paper on poem summarization at <span style="background-color: #fff8c2; color: black;">EMNLP 2023</span>, introducing a unique dataset and benchmark for understanding creative language in AI. Here, you’ll find details about my projects, publications, and ongoing research aimed at advancing adaptive and inclusive technologies.
 
-Research
+Research interests
+======
+
+
+
+Selected Publication
 ======
 
 <ol>
@@ -26,28 +31,13 @@ Conference: Proceedings of the 2023 Conference on Empirical Methods in Natural L
 <li>
 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=udWuH_YAAAAJ&authuser=2&citation_for_view=udWuH_YAAAAJ:u5HHmVD_uO8C">A comparative analysis of efficient convolutional neural network based methods for plant disease classification</a>
 
-Publication date: December, 2022
+<p style="font-size:80%; ","color:#a5a8a8;"> Publication date: December, 2022 </p>
 
-Conference: 2022 25th international conference on computer and information technology (ICCIT)
+<p> Conference: 2022 25th international conference on computer and information technology (ICCIT) </p>
 </li>
 
 </ol>
 
-Selected Publication
-======
-
-
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right.
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 <!-- Site-wide configuration
 ------
