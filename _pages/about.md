@@ -26,7 +26,7 @@ Selected Publication
 
 <Span style="font-size:90% ; color:#a5a8a8">Publication date: December, 2023 </span> <br/>
 
-<Span style="font-size:90%; "> <b>Conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMV) </b> </span> <br/>
+<Span style="font-size:90%; "> <b>Conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) </b> </span> <br/>
 
 This work benchmarks the creative language understanding and summarizing capacity of language models
 and highlights numerous short-comings of prevalent text summarization models.
