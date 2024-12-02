@@ -13,9 +13,12 @@ I am Samiha Shafiq Anuva, a <span style="background-color: #fff8c2; color: black
 Research
 ======
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<div class="talks">
+  {% for post in site.talks reversed %}
+    {% include archive-single-talk.html %}
+  {% endfor %}
+</div>
+
 
 Selected Publication
 ======
