@@ -1,14 +1,10 @@
 ---
 permalink: /
-
-
 title: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
-  -/talks/
-
 ---
 
 ![Illustration of learning process of AI](/images/robot2.jpg){: .align-right width="300px"}
