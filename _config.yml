@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Samiha Shafiq Anuva"
+title                    : "Hi! It's Anuva"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : #
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 

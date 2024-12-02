@@ -23,7 +23,7 @@ Selected Publication
 <li>
 <a href="https://scholar.google.com/citations?hl=en&authuser=2&user=udWuH_YAAAAJ">Unveiling the essence of poetry: Introducing a comprehensive dataset and benchmark for poem summarization</a>  <br/>
 
-<Span style="font-size:80%; ,color:#a5a8a8">Publication date: December, 2023 </span>  <br/>
+<Span style="font-size:80%; , font-color:#a5a8a8">Publication date: December, 2023 </span>  <br/>
 
 Conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing  
 </li>
