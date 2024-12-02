@@ -13,7 +13,7 @@ I am Samiha Shafiq Anuva, a <span style="background-color: #fff8c2; color: black
 Research interests
 ======
 
-<i class="fa-solid fa-square" style="font-size: 12px;"> </i>   HCI      <i class="fa-solid fa-square" style="font-size: 12px;"></i>   NLP      <i class="fa-solid fa-square" style="font-size: 12px;"></i>   Dta Visualization     <i class="fa-solid fa-square" style="font-size: 12px;"></i>   Machine Learning
+<i class="fa-solid fa-square;" style="font-size:12px;"> </i>   HCI      <i class="fa-solid fa-square" style="font-size:12px;"></i>   NLP      <i class="fa-solid fa-square" style="font-size: 12px;"></i>   Dta Visualization     <i class="fa-solid fa-square" style="font-size: 12px;"></i>   Machine Learning
 
 
 Selected Publication
@@ -24,7 +24,7 @@ Selected Publication
 <li>
 <a href="https://scholar.google.com/citations?hl=en&authuser=2&user=udWuH_YAAAAJ">Unveiling the essence of poetry: Introducing a comprehensive dataset and benchmark for poem summarization</a>  <br/>
 
-<Span style="font-size:90% , color:#a5a8a8">Publication date: December, 2023 </span> <br/>
+<Span style="font-size:90% ; color:#a5a8a8">Publication date: December, 2023 </span> <br/>
 
 <Span style="font-size:90%; "> <b>Conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing </b> </span> <br/>
 
@@ -37,7 +37,7 @@ and highlights numerous short-comings of prevalent text summarization models.
 
 <Span style="font-size:90%; color:#a5a8a8"> Publication date: December, 2022 </span> <br/>
 
-<span style="font-size:90%, color:#a5a8a8"> <b>Conference: 2022 25th international conference on computer and information technology (ICCIT) </b> </span> <br/>
+<span style="font-size:90%; color:#a5a8a8"> <b>Conference: 2022 25th international conference on computer and information technology (ICCIT) </b> </span> <br/>
 The work delves into the complexities of plant disease classification, covering aspects such as available
 datasets, transfer learning, and a comparative analysis of lightweight CNN models for leaf disease.
 </li>
