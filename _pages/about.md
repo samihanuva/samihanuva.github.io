@@ -13,12 +13,25 @@ I am Samiha Shafiq Anuva, a <span style="background-color: #fff8c2; color: black
 Research
 ======
 
-<div class="talks">
-  {% for post in site.talks reversed %}
-    {% include archive-single-talk.html %}
-  {% endfor %}
-</div>
+<ol>
 
+<li>
+<a href="https://scholar.google.com/citations?hl=en&authuser=2&user=udWuH_YAAAAJ">Unveiling the essence of poetry: Introducing a comprehensive dataset and benchmark for poem summarization</a>
+
+Publication date: December, 2023
+
+Conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing
+</li>
+
+<li>
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=udWuH_YAAAAJ&authuser=2&citation_for_view=udWuH_YAAAAJ:u5HHmVD_uO8C">A comparative analysis of efficient convolutional neural network based methods for plant disease classification</a>
+
+Publication date: December, 2022
+
+Conference: 2022 25th international conference on computer and information technology (ICCIT)
+</li>
+
+</ol>
 
 Selected Publication
 ======
