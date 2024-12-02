@@ -23,15 +23,15 @@ Selected Publication
 <li>
 <a href="https://scholar.google.com/citations?hl=en&authuser=2&user=udWuH_YAAAAJ">Unveiling the essence of poetry: Introducing a comprehensive dataset and benchmark for poem summarization</a>  <br/>
 
-<Span style="font-size:80%; , font-color:#a5a8a8">Publication date: December, 2023 </span>  <br/>
+<Span style="font-size:80% , color:#a5a8a8">Publication date: December, 2023 </span>  <br/>
 
-Conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing  
+<Span style="font-size:80%; "> <b></b>Conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing </b>  
 </li>
 
 <li>
 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=udWuH_YAAAAJ&authuser=2&citation_for_view=udWuH_YAAAAJ:u5HHmVD_uO8C">A comparative analysis of efficient convolutional neural network based methods for plant disease classification</a> <br/>
 
-<Span style="font-size:80%; ,color:#a5a8a8"> Publication date: December, 2022 </span> <br/>
+<Span style="font-size:80%, color:#a5a8a8"> Publication date: December, 2022 </span> <br/>
 
 <span> Conference: 2022 25th international conference on computer and information technology (ICCIT) </span>
 </li>
