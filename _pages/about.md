@@ -10,8 +10,8 @@ redirect_from:
 ![Illustration of learning process of AI](/images/robot2.jpg){: .align-right width="300px"}
 I am Samiha Shafiq Anuva, a <span style="background-color: #fff8c2; color: black;"> Research Engineer </span> at the Intelligent Visualization Lab at York University, with a <span style="background-color: #fff8c2; color: black;">Bachelor's degree in Computer Science and Engineering</span> from the Islamic University of Technology. My research interests lie at the <span style="background-color: #fff8c2; color: black;">intersection of NLP and HCI</span>, where I focus on creating intelligent, accessible interfaces that bridge human and machine communication. My work spans areas like language model evaluation, user-centered design, and data visualization. Recently, I published a paper on poem summarization at <span style="background-color: #fff8c2; color: black;">EMNLP 2023</span>, introducing a unique dataset and benchmark for understanding creative language in AI. Here, you’ll find details about my projects, publications, and ongoing research aimed at advancing adaptive and inclusive technologies.
 
-Research interests
-======
+<!-- Research interests
+====== -->
 
 
 
@@ -21,19 +21,19 @@ Selected Publication
 <ol>
 
 <li>
-<a href="https://scholar.google.com/citations?hl=en&authuser=2&user=udWuH_YAAAAJ">Unveiling the essence of poetry: Introducing a comprehensive dataset and benchmark for poem summarization</a>  
+<a href="https://scholar.google.com/citations?hl=en&authuser=2&user=udWuH_YAAAAJ">Unveiling the essence of poetry: Introducing a comprehensive dataset and benchmark for poem summarization</a>  <br/>
 
-Publication date: December, 2023  
+<Span style="font-size:80%; ,color:#a5a8a8">Publication date: December, 2023 </span>  <br/>
 
 Conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing  
 </li>
 
 <li>
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=udWuH_YAAAAJ&authuser=2&citation_for_view=udWuH_YAAAAJ:u5HHmVD_uO8C">A comparative analysis of efficient convolutional neural network based methods for plant disease classification</a>
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=udWuH_YAAAAJ&authuser=2&citation_for_view=udWuH_YAAAAJ:u5HHmVD_uO8C">A comparative analysis of efficient convolutional neural network based methods for plant disease classification</a> <br/>
 
-<Span style="font-size:80%; ,color:#a5a8a8"> Publication date: December, 2022 </span>
+<Span style="font-size:80%; ,color:#a5a8a8"> Publication date: December, 2022 </span> <br/>
 
-<p> Conference: 2022 25th international conference on computer and information technology (ICCIT) </p>
+<span> Conference: 2022 25th international conference on computer and information technology (ICCIT) </span>
 </li>
 
 </ol>
