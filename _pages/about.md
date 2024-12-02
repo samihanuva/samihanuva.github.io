@@ -13,7 +13,7 @@ I am Samiha Shafiq Anuva, a <span style="background-color: #fff8c2; color: black
 Research interests
 ======
 
-<i class="fa-solid fa-square"></i>HCI <i class="fa-solid fa-square"></i>NLP <i class="fa-solid fa-square"></i>Dta Visualization <i class="fa-solid fa-square"></i> HCI ML
+<i style="height: 12px" class="fa-solid fa-square"> </i> HCI <span style="width: 40px"> </span> <i style="height: 12px" class="fa-solid fa-square"></i>NLP <i style="height: 12px"class="fa-solid fa-square"></i>Dta Visualization <i style="height: 12px" class="fa-solid fa-square"></i> HCI ML
 
 
 Selected Publication
