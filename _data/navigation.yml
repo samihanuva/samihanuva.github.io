@@ -6,7 +6,8 @@
 
 main:
   - title: "Publications"
-    url: /year-archive/
+    url: https://scholar.google.ca/citations?user=udWuH_YAAAAJ&hl=en&authuser=2
+        # url: /year-archive/
 
   # - title: "Work Experience"
   #   url: /talks/
