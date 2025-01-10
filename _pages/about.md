@@ -22,7 +22,7 @@ Selected Publication
 <ol>
 
 <li>
-<a href="https://scholar.google.com/citations?hl=en&authuser=2&user=udWuH_YAAAAJ">Unveiling the essence of poetry: Introducing a comprehensive dataset and benchmark for poem summarization</a>  <br/>
+<a href="https://aclanthology.org/2023.emnlp-main.920/">Unveiling the essence of poetry: Introducing a comprehensive dataset and benchmark for poem summarization</a>  <br/>
 
 <Span style="font-size:90% ; color:#a5a8a8">Publication date: December, 2023 </span> <br/>
 
